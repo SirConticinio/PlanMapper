@@ -1,0 +1,17 @@
+.bundleElements {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    padding: 0 0 10px;
+    align-items: center;
+}
+
+#bundleContainer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.buildingListItem {
+    padding: 1em 0;
+}
